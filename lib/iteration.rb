@@ -10,6 +10,7 @@ def join_ingredients(src)
   i = 0 
   while i <  src.length do 
     new array.push("I love #{src[i] [0]} and #{src[i] [1]} on my pizza")
+    
 end
 
 def find_greater_pair(src)
